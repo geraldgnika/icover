@@ -1,0 +1,9 @@
+This project was built on top of Adequate Framework v.1.0.0
+
+iCover was accidentally deleted and no copy of it was made. But iCover's architecture exists and it is called Adequate.
+
+iCover was accidentally deleted 3 times. The first two times it got deleted I chose to re make it from the beginning. When it got deleted the 3rd time I just dropped it.
+
+iCover v.1.0.0 was just functional programming
+iCover v.2.0.0 was OOP
+iCover v.3.0.0 was built on top of my MVC framework (Adequate)
