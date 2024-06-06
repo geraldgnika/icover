@@ -1,1 +1,1 @@
-iCover was a fully functioning Social Networking site (accidentally deleted), built on top of Adequate framework which helps new artists promote themselves through uploading and exploring musical covers.
+A social networking website built on top of Adequate, for aspiring artists to promote their cover songs, providing a platform to showcase their talents.
